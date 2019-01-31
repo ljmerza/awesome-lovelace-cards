@@ -17,10 +17,11 @@
 * [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card.
 * [Mini Media Player](https://github.com/kalkih/mini-media-player) - A minimalistic media player card.
 * [Monster Card](https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card) - Dynamically adds entities: 🔮 Magic.
-* [Plan coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) - Helper to display left: and top: to use as coordinates in entities in [https://www.home-assistant.io/lovelace/picture-elements/()]picture-elements.)
+* [MQTT LED Strip Card](https://github.com/ljmerza/mqtt-led-strip-card) - Control LED Strips through MQTT.
+* [Plan coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) - Helper to display left: and top: to use as coordinates in entities in (picture-elements)[https://www.home-assistant.io/lovelace/picture-elements/()].
 * [Power Wheel Card](https://github.com/gurbyz/custom-cards-lovelace/tree/master/power-wheel-card) - An intuitive way to represent the power that your home is consuming or producing.
 * [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) – A simpler and more flexible thermostat card.
 * [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards.
 * [Slideshow Card](https://github.com/zsarnett/slideshow-card) - Dynamic slideshow of images or cards.
-* [Swiper Card](https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck) - Flick/swipe through multiple cards.
+* [Swiper Card](https://github.com/bramkragten/custom-ui/tree/master/swipe-card) - Flick/swipe through multiple cards.
 * [Thermostat Card](https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card) - Thermostat control card that looks like a Nest Thermostat.
